@@ -1,6 +1,6 @@
 # Online-Sales-Dataset---Popular-Marketplace-Data
 
-### Project Oveeview
+### Project Overview
 The primary goal of this project is to analyze and gain insights from sales data to enhance business decision-making processes. The analysis focuses on several key areas including sales trends, product popularity, payment methods, and regional performance. The findings may help tailor marketing strategies and optimize product offerings.
 
 ### Data Source
