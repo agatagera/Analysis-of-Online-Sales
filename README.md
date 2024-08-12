@@ -21,6 +21,16 @@ https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-ma
 4. Identify top-selling products within each category
 5. Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly
 
+## Conclusions:
+
+- For most months, the best-selling product Category is  clothing with th exception of months: January and March, where category sport is the best-seler.
+- Largest impact on revenue and sales volume from credit cards.
+- The most popular product for each region: clothing for Asia, home appliances for Europe, electronics for North America
+- Top-selling products within each category:
+
+![image](https://github.com/user-attachments/assets/4aeeeb98-6ef4-4d9b-b805-86b177f44232)
+
+
 ### Recommendations Based on Analysis
 1. Optimize Inventory and Marketing for Clothing Category
 2. Special Promotions for Sports Category in January and March
