@@ -28,7 +28,8 @@ https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-ma
 - The most popular product for each region: clothing for Asia, home appliances for Europe, electronics for North America
 - Top-selling products within each category:
 
-![image](https://github.com/user-attachments/assets/4aeeeb98-6ef4-4d9b-b805-86b177f44232)
+![image](https://github.com/user-attachments/assets/6367a3d9-165a-4fa4-a662-5a92e48295e8)
+
 
 
 ### Recommendations Based on Analysis
